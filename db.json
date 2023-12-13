@@ -13,10 +13,10 @@
       "reminder": false
     },
     {
-      "text": "alo",
-      "day": "yes",
-      "reminder": false,
-      "id": 3
+      "text": "t1",
+      "day": "t3",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
